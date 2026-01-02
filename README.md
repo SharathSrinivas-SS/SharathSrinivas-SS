@@ -1,6 +1,7 @@
 ## Greetings, visitor… 👋
 
 import caffeine as fuel
+
 '''
 Hey there, I’m Sharath!! I build software that actually ships, breaks, and then ships again — but better. From full-stack apps to a bit of Web3 chaos, I love turning ideas into things that run (preferably not only on my machine™).
 
