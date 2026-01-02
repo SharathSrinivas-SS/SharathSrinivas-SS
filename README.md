@@ -3,9 +3,11 @@
 import caffeine as fuel
 
 '''
+
 Hey there, I’m Sharath!! I build software that actually ships, breaks, and then ships again — but better. From full-stack apps to a bit of Web3 chaos, I love turning ideas into things that run (preferably not only on my machine™).
 
 Always learning, always building, occasionally sleeping. If you like clean code, cool side projects, or just geeking out about tech, stick around — or ping me. Let’s build something awesome 🚀
+
 '''
 
 print("Good code, good coffee, good life.")
