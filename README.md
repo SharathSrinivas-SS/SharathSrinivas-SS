@@ -31,4 +31,5 @@ print("Good code, good coffee, good life.")
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://raw.githubusercontent.com/sharath-srinivas/sharath-srinivas/output/snake.svg)
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)
+
